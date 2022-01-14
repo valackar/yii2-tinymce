@@ -7,7 +7,7 @@ use yii\web\YiiAsset;
 
 class Assets extends AssetBundle
 {
-    public $sourcePath ='@anatoliy700/tinymce/editor';
+    public $sourcePath ='@valackar/tinymce/editor';
 
     public $js = [
         'tinymce.min.js',
