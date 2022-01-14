@@ -16,7 +16,7 @@
             "email": "valackar@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "valackar\\tinymce\\": "src"
