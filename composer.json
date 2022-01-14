@@ -1,0 +1,25 @@
+{
+    "name": "valackar/yii2-tinymce",
+    "description": "Package for using the visual editor TinyMCEv5 in YII2",
+    "type": "yii2-extension",
+    "require": {
+        "php": ">=5.4",
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "require-dev": {
+        "yiisoft/yii2-coding-standards": "~2.0"
+    },
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "valackar",
+            "email": "valackar@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "valackar\\tinymce\\": "src"
+        }
+    }
+}
